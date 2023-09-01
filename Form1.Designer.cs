@@ -300,8 +300,8 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(textBox1);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "Calculator App";
+            Text = "Calculator App";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
